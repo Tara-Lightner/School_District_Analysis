@@ -34,15 +34,15 @@ This project demonstrates mastery of Python Pandas through:
 
 ## Deliverables
 ### Deliverable 1: Replace ninth-grade reading and math scores
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Deliverable1.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Deliverable1.PNG)
 ### Deliverable 2: Repeat the school district analysis
 school_data_complete_df
 * Image of the original District Summary DataFrame
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\District_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/District_Summary.PNG)
 * Image of the original School Summary
-![]() 
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photo\Original_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/District_Summary.PNG) 
 The top 5 and bottom 5 performing schools, based on teh overall passing rate
-![]() 
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Top5_Bottom5.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Top5_Bottom5.PNG) 
 The average reading score for each grade level from each school
 ![]() 
 The scores by school spending per student, by school size, and by school type
@@ -59,7 +59,7 @@ WAIT ON THESE...I THINK I Added them incorrectly
 Thomas High School Budget Data Frame
 ![]()
 * Image of the updated District Summary DataFrame
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Adjusted_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Adjusted_THS_Summary.PNG)
 * Image of the updated Thomas High School Budget Data Frame
 ![]()
 * 
@@ -83,15 +83,14 @@ There is a bulleted list that addresses how each of the seven school district me
 - How does replacing the ninth graders’ math and reading scores affect Thomas 
 - High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
-  -  Math and reading scores by grade
+  - Math and reading scores by grade
   - Scores by school spending
   - Scores by school size
   - Scores by school type
 
 ## Summary: ***Summarize four changes in the updated school district analysis after reading and math scores for the nineth grade at Thomas High School have been replaced with NaNs
+After reading and math scores for the 9th grade Thomas High School were replaced with Nans it went from.....   , to .....
 
-## Challenges and Difficulties Encountered
-There were many challenges and lessons learned along the way.  One of my biggest frustrations was trying to run my code inside VSCode using the play button vs. trying to launch it from the command line.  I had to change my file path code back and forth to get it to run using the play button because it was launching from a folder at a higher level and not from where my python script was located. I thought I had to make it work for both deliverables to get the assignment done correctly.  I even tried using a direct path, but this did not resolve it.  I think the error was that I had my VSCode opened from my MSU folder which is the overarching folder I have all my boot camp work in.  
 
 
 
