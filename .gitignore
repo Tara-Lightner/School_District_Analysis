@@ -1,3 +1,6 @@
+#### Ignore the folder I manually added
+Practice_Other
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

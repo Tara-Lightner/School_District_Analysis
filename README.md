@@ -45,7 +45,7 @@ school_data_complete_df
 * Image of updated THS_school_summary
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Adjusted_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Adjusted_THS_Summary.PNG)
 
-The top 5 and bottom 5 performing schools, based on teh overall passing rate
+The top 5 and bottom 5 performing schools, based on the overall passing rate
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Top5_Bottom5.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Top5_Bottom5.PNG) 
 The average reading score for each grade level from each school
 ![]() 
@@ -69,26 +69,24 @@ Thomas High School Budget Data Frame
 * 
 Per_school_summary Before and After NaN
 * Image of original per_school_summary_df
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\School_Summary\Per_School_Summary_Original.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/School_Summary/Per_School_Summary_Original.PNG)
 * Image of updated per_school_summary_df
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\School_Summary\Per_School_Summary_Adjusted.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/School_Summary/Per_School_Summary_Adjusted.PNG)
 
 THS Summary Before and after NaN
 * Image of orignial THS_school_summary
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Original_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Original_THS_Summary.PNG)
 
 * Image of High and Low Performing Schools (X2)
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Top5_Bottom5.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Top5_Bottom5.PNG)
 * Image of Math and Reading Scores by Grade (X2)
 ![]()
 * Image of Scores by School Spending
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Scores_by_School_Spending.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Scores_by_School_Spending.PNG)
 * Image of Scores by School Size
-![]()
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Scores_by_School_Size_LN57.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Scores_by_School_Spending.PNG)
 * Image of Scores by School Type
-![]()
-
-### Deliverable 3: A written report for the school district analysis (README.md)
+![](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Scores_by_School_type_LN60.PNG
 
 ## Results: Election Outcome Analysis
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data 
