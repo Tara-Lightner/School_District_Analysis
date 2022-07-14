@@ -62,12 +62,16 @@ The scores by school type
 WAIT ON THESE...I THINK I Added them incorrectly
 Thomas High School Budget Data Frame
 ![]()
+
 * Image of the updated District Summary DataFrame
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Adjusted_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Adjusted_THS_Summary.PNG)
+
 * Image of the updated Thomas High School Budget Data Frame
 ![]()
+
 * 
 Per_school_summary Before and After NaN
+
 * Image of original per_school_summary_df
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\School_Summary\Per_School_Summary_Original.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/School_Summary/Per_School_Summary_Original.PNG)
 * Image of updated per_school_summary_df
@@ -79,12 +83,16 @@ THS Summary Before and after NaN
 
 * Image of High and Low Performing Schools (X2)
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Top5_Bottom5.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Top5_Bottom5.PNG)
+
 * Image of Math and Reading Scores by Grade (X2)
 ![]()
+
 * Image of Scores by School Spending
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Scores_by_School_Spending.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Scores_by_School_Spending.PNG)
+
 * Image of Scores by School Size
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Scores_by_School_Size_LN57.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Scores_by_School_Spending.PNG)
+
 * Image of Scores by School Type
 ![](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Scores_by_School_type_LN60.PNG
 
