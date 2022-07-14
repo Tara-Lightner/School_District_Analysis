@@ -33,14 +33,18 @@ This project demonstrates mastery of Python Pandas through:
 
 
 ## Deliverables
+
 ### Deliverable 1: Replace ninth-grade reading and math scores
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Deliverable1.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Deliverable1.PNG)
+
 ### Deliverable 2: Repeat the school district analysis
 school_data_complete_df
 * Image of the original District Summary DataFrame
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\District_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/District_Summary.PNG)
-* Image of the original School Summary
-![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photo\Original_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/District_Summary.PNG) 
+
+* Image of updated THS_school_summary
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Adjusted_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Adjusted_THS_Summary.PNG)
+
 The top 5 and bottom 5 performing schools, based on teh overall passing rate
 ![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Top5_Bottom5.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Top5_Bottom5.PNG) 
 The average reading score for each grade level from each school
@@ -63,16 +67,26 @@ Thomas High School Budget Data Frame
 * Image of the updated Thomas High School Budget Data Frame
 ![]()
 * 
-Per_school_summary
+Per_school_summary Before and After NaN
 * Image of original per_school_summary_df
-* Image of orignial THS_school_summary
+![]()
 * Image of updated per_school_summary_df
-* Image of updated THS_school_summary
+![]()
+
+THS Summary Before and after NaN
+* Image of orignial THS_school_summary
+![C:\Users\tligh\Documents\MSU\Challenges\School_District_Analysis\photos\Original_THS_Summary.PNG](https://github.com/Tara-Lightner/School_District_Analysis/blob/main/photos/Original_THS_Summary.PNG)
+
 * Image of High and Low Performing Schools (X2)
+![]()
 * Image of Math and Reading Scores by Grade (X2)
+![]()
 * Image of Scores by School Spending
+![]()
 * Image of Scores by School Size
+![]()
 * Image of Scores by School Type
+![]()
 
 ### Deliverable 3: A written report for the school district analysis (README.md)
 
@@ -84,6 +98,8 @@ There is a bulleted list that addresses how each of the seven school district me
 - High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
+  -- For THS the Math score was XX.XX%, after removing the 9th grade scores affect it was XX.XX%.
+  -- For THS the reading score was XX.XX%, after removing the 9th grade scores affect is was XX.XX% with a XX.XX% increase/decrease
   - Scores by school spending
   - Scores by school size
   - Scores by school type
